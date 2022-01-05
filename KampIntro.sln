@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.Odev5-23Ocak2021-DemoApp"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "LinqProject\LinqProject.csproj", "{A7AFB7FC-45D9-4676-8DF3-866C547EB5AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject2", "LinqProject2\LinqProject2.csproj", "{CB95415D-E2D4-47C0-968A-04B3187028C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject2", "LinqProject2\LinqProject2.csproj", "{CB95415D-E2D4-47C0-968A-04B3187028C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject3", "LinqProject3\LinqProject3.csproj", "{22B067A8-85A4-4C5E-BC9F-2221C2D30015}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject3", "LinqProject3\LinqProject3.csproj", "{22B067A8-85A4-4C5E-BC9F-2221C2D30015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{A10A1602-AF00-4E4B-B851-79AD098C0CB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{22B067A8-85A4-4C5E-BC9F-2221C2D30015}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22B067A8-85A4-4C5E-BC9F-2221C2D30015}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22B067A8-85A4-4C5E-BC9F-2221C2D30015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10A1602-AF00-4E4B-B851-79AD098C0CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10A1602-AF00-4E4B-B851-79AD098C0CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10A1602-AF00-4E4B-B851-79AD098C0CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10A1602-AF00-4E4B-B851-79AD098C0CB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
